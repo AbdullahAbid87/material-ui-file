@@ -1,5 +1,4 @@
 import { Fragment, useState } from "react";
-import "./App.css";
 import FileField from "./FileField";
 
 function App() {
